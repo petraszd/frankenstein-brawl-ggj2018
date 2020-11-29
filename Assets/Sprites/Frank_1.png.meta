@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 2f4ed4cbe102e46d19f56defd5a93c9d
+timeCreated: 1517060340
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Frank_Back_Arm_Up
+    21300002: Frank_Body
+    21300004: Frank_Head
+    21300006: Frank_Fore_Arm_Up
+    21300008: Frank_Back_Arm_Down
+    21300010: Frank_Root
+    21300012: Frank_Padding
+    21300014: Frank_Fore_Arm_Down
+    21300016: Frank_Back_Arm_Hand
+    21300018: Frank_Fore_Leg_Up
+    21300020: Frank_Back_Leg_Up
+    21300022: Frank_Fore_Arm_Hand
+    21300024: Frank_Fore_Leg_Down
+    21300026: Frank_Back_Leg_Down
+    21300028: Frank_Fore_Leg_Feet
+    21300030: Frank_Back_Leg_Feet
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frank_Back_Arm_Up
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 4667
+        width: 476
+        height: 1241
+      alignment: 9
+      pivot: {x: 0.55537146, y: 0.86105233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Body
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 3965
+        width: 1216
+        height: 1833
+      alignment: 9
+      pivot: {x: 0.5417886, y: 0.010240321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Head
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 5138
+        width: 760
+        height: 1223
+      alignment: 9
+      pivot: {x: 0.0923735, y: 0.3196789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Fore_Arm_Up
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 4667
+        width: 470
+        height: 1188
+      alignment: 9
+      pivot: {x: 0.61215717, y: 0.8660671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Back_Arm_Down
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 3612
+        width: 333
+        height: 959
+      alignment: 9
+      pivot: {x: 0.6187986, y: 0.9444245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Root
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 3499
+        width: 661
+        height: 408
+      alignment: 9
+      pivot: {x: 0.51305616, y: 0.7009463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Padding
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 3414
+        width: 486
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Fore_Arm_Down
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 3602
+        width: 334
+        height: 958
+      alignment: 9
+      pivot: {x: 0.5920644, y: 0.8989324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Back_Arm_Hand
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 3075
+        width: 305
+        height: 428
+      alignment: 9
+      pivot: {x: 0.35597223, y: 0.92080945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Fore_Leg_Up
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 2017
+        width: 334
+        height: 1184
+      alignment: 9
+      pivot: {x: 0.26745167, y: 0.8024919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Back_Leg_Up
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 2023
+        width: 328
+        height: 1093
+      alignment: 9
+      pivot: {x: 0.34213182, y: 0.83162427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Fore_Arm_Hand
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 3087
+        width: 314
+        height: 439
+      alignment: 9
+      pivot: {x: 0.37408873, y: 0.9302781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Fore_Leg_Down
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 811
+        width: 277
+        height: 1097
+      alignment: 9
+      pivot: {x: 0.81155694, y: 0.960221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Back_Leg_Down
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 803
+        width: 267
+        height: 1026
+      alignment: 9
+      pivot: {x: 0.6777737, y: 0.96262866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Fore_Leg_Feet
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 380
+        width: 848
+        height: 301
+      alignment: 9
+      pivot: {x: 0.14380358, y: 0.93007296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frank_Back_Leg_Feet
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 380
+        width: 804
+        height: 276
+      alignment: 9
+      pivot: {x: 0.10820926, y: 0.9377598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

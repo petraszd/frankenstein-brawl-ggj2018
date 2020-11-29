@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0506449F-E638-C421-603C-EBA249322C7F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraBlur.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RunMainManager.cs" Line="23" Column="9" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="212" Column="24" />
+      <File FileName="Assets/Scripts/CameraBlur.cs" Line="26" Column="32" />
+      <File FileName="Assets/Shaders/Camera-Blur.shader" Line="11" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Frankenstein-Brawl PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

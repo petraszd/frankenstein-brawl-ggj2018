@@ -1,0 +1,9 @@
+*.swp
+Temp
+Library
+Build
+.DS_Store
+*.sln
+*.csproj
+Builds/*
+Progress/*
